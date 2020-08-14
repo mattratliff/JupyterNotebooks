@@ -1,5 +1,5 @@
 # JupyterNotebooks
 
-###A collection of JupyterNotebooks for various Data Science problems
+### A collection of JupyterNotebooks for various Data Science problems
 
-####OCR K-means clustering
+#### - OCR K-means clustering
