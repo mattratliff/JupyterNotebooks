@@ -4,3 +4,4 @@
 
 #### - OCR K-means clustering
 #### - MINST Stochastic Gradient Descent
+#### - Python Crash Course
